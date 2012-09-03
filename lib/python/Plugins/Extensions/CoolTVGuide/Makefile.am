@@ -1,6 +1,6 @@
 installdir = $(pkglibdir)/python/Plugins/Extensions/CoolTVGuide
 
-SUBDIRS = Cool3D CoolSkin locale
+SUBDIRS = CoolSkin locale
 
 install_PYTHON = \
 				 CoolEasyGuide.pyo \
