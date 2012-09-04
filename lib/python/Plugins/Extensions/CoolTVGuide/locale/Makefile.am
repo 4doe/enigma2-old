@@ -1,5 +1,6 @@
-installdir = $(pkglibdir)/python/Plugins/Extensions/CoolTVGuide
+installdir = $(pkglibdir)/python/Plugins/Extensions/CoolTVGuide/locale
 
-SUBDIRS = bg  cs  de  fa  fr  Makefile.am  nl  no  pl 
+SUBDIRS = bg  cs  de  fa  fr  nl  no  pl 
 
-dist_install_DATA = CoolTVGuide.po 
+dist_install_DATA = \
+	CoolTVGuide.po 

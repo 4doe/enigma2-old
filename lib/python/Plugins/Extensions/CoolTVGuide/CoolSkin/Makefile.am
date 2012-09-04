@@ -29,4 +29,4 @@ dist_install_DATA = \
 	CoolTVGuideSetup.xml \
 	CoolUniGuide_1024.xml \
 	CoolUniGuide_1280.xml \
-	CoolUniGuide_720.xml \
+	CoolUniGuide_720.xml
