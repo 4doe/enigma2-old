@@ -10,4 +10,3 @@ install_PYTHON = \
 	CoolTVGuide.png \
 	maintainer.info \
 	keymap.xml
- 
