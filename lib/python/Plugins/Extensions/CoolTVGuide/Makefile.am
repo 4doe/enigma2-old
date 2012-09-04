@@ -7,6 +7,6 @@ install_PYTHON = \
 	CoolInfoGuide.pyo \
 	CoolSearch.pyo \
 	CoolSingleGuide.pyo \
-	CoolTVGuide.png \
-	maintainer.info \
-	keymap.xml
+	CoolTVGuide.png 
+
+dist_install_DATA = keymap.xml maintainer.info
